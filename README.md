@@ -1,1 +1,0 @@
-# gmflores.github.io
