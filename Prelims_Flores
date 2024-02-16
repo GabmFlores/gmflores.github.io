@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabriel Mari S. Flores - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            max-width: 10%;
+            border-radius: 50%;
+        }
+        ul, ol {
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        hr {
+            border: 1px solid #ddd;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="https://i.ibb.co/T4ZzG6D/gmpic.jpg" alt="Profile Picture">
+        <h1>Gabriel Mari S. Flores</h1>
+        <p><b>Address:</b> 208-1 Peñafrancia Avenue, Naga City</p>
+        <p><b>Contact:</b> 09637282456 | gmflores@gbox.adnu.edu.ph</p>
+        <hr>
+    </header>
+
+    <section>
+        <h2>Personal Statement</h2>
+        <p>I am Gabriel Mari S. Flores, a dedicated computer science student at Ateneo De Naga University, specializing in C++. Throughout my academic journey, I have developed a strong foundation in programming, particularly in C++, and applied my skills to various projects.
+
+My passion for C++ extends beyond coursework, as I actively explore its applications in software development and problem-solving. I am particularly interested in providing optimized solutions to real-world problems.
+
+As I progress in my computer science studies, my goal is to contribute to impactful projects in C++ development. I am excited about the opportunity to bring my technical skills, creativity, and dedication to work towards the goals of the company.
+
+Thank you for considering my application. I am eager to leverage my C++ expertise and collaborate on innovative solutions in the dynamic field of computer science.</p>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Educational History</h2>
+        <ul>
+            <li><b>Computer Science - Ateneo de Naga University - Expected 2026</b></li>
+            <!-- Add more educational history as needed -->
+        </ul>
+        <hr>
+    </section>
+
+    <section>
+        <h2>General and Technical Skills</h2>
+        <ul>
+            <li><i>C++ Programming</i></li>
+            <li><i>Data Structures and Algorithms</i></li>
+            <li><i>Software Development</i></li>
+            <li><i>Problem-solving</i></li>
+            <li><i>Team Collaboration</i></li>
+            <li><i>Debugging and Testing</i></li>
+            <!-- Add more skills as needed -->
+        </ul>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Character References</h2>
+        <ol>
+            <li><b>Prof. Maria Santos</b> - Head of Computer Science Department</li>
+            <li><b>Mr. John Rodriguez</b> - Team Leader, Coding Club</li>
+        </ol>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <p><b>Software Developer Intern</b> - XYZ Tech Solutions - Summer 2025</p>
+        <p>Worked on a team developing a cloud-based application using C++ and participated in code reviews and debugging sessions.</p>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <p><i>C++ Programming Certificate</i> - Code Institute - 2025</p>
+        <p><i>Software Development Fundamentals</i> - TechCert - 2024</p>
+        <hr>
+    </section>
+
+    <section>
+        <h2>Seminars</h2>
+        <table>
+            <tr>
+                <th>Seminar</th>
+                <th>Organizer</th>
+                <th>Year</th>
+            </tr>
+            <tr>
+                <td><i>Advanced C++ Techniques</i></td>
+                <td><b>Code Masters Workshop</b></td>
+                <td><b>2025</b></td>
+            </tr>
+            <tr>
+                <td><i>Introduction to Artificial Intelligence</i></td>
+                <td><b>Tech Innovators Conference</b></td>
+                <td><b>2024</b></td>
+            </tr>
+            <!-- Add more seminar rows if needed -->
+        </table>
+    </section>
+
+</body>
+</html>
